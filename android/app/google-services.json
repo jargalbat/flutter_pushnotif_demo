@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976648184481",
+    "project_id": "flutter-push-notif-demo",
+    "storage_bucket": "flutter-push-notif-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976648184481:android:346a07d1ea073eadd386e0",
+        "android_client_info": {
+          "package_name": "mn.app.pushnotif_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976648184481-3o7u0i69stbrn62m554rhdeprddpf0q1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5hH2PXzujMjCufKV8xfNhx6SmaijRKHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976648184481-3o7u0i69stbrn62m554rhdeprddpf0q1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
